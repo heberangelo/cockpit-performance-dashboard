@@ -6,3 +6,5 @@ The dashboard is structured into three main sections:
 - Center: KPI monitoring and analytical views
 - Right panel: Dynamic filters for time, region, and agency
 
+
+
