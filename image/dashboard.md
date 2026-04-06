@@ -9,3 +9,8 @@ This dashboard is designed to provide a centralized view of business performance
 
 <img width="1909" height="830" alt="2026-04-06_15-32" src="https://github.com/user-attachments/assets/f03d65ba-16bd-442d-8265-3d247d6d2fbb" />
 
+### 💡 Key Highlights
+
+- Centralized monitoring of business KPIs across multiple domains
+- Improved decision-making through real-time insights
+- Enhanced user experience with intuitive navigation and filtering
