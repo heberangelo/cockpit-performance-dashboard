@@ -1,3 +1,10 @@
-##  Executive Overview
-![Cockpit Overview](images/cockpit-overview.png)
+## Executive Overview
+
+The dashboard is structured into three main sections:
+
+- Left panel: Navigation across business domains (Deposits, Credit, Indicators)
+- Center: KPI monitoring and analytical insights
+- Right panel: Dynamic filters (year, month, region, agency)
+
+The solution enables both high-level executive monitoring and detailed performance analysis over time.
 
