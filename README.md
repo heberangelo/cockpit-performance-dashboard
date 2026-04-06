@@ -2,35 +2,45 @@
 
 ## 📌 Overview
 
-This project presents a Business Intelligence solution designed to monitor organizational performance through consolidated KPIs, enabling executive-level decision-making.
+This project presents a **strategic BI dashboard** designed to monitor organizational performance across multiple business areas, supporting executive decision-making.
 
 ## 🎯 Business Problem
 
-Business units lacked a centralized view of performance indicators, making it difficult to track results, monitor targets, and support strategic decisions.
+Business stakeholders lacked a **centralized and reliable view of KPIs**, resulting in:
+
+ - Fragmented analysis across different systems
+ - Delays in decision-making
+ - Lack of performance visibility across branches/agencies
 
 ## ⚙️ Solution
 
-Developed a centralized BI cockpit integrating data from multiple business areas, providing near real-time insights into performance, targets, and operational indicators.
+Developed an end-to-end BI solution using **SQL and Qlik Sense**, delivering:
 
-## 📈 Results
+ - Centralized KPI monitoring
+ - Interactive dashboards for executive analysis
+ - Performance tracking by agency, product, and time
 
-Delivered a unified performance monitoring solution across multiple business units
-Enabled real-time KPI tracking for executives and managers
-Improved decision-making speed and visibility across the organization
-Scaled solution to support 200+ users with controlled access and governance
+## 📈 Key Features
 
-## 🧠 Key Features
+ - KPI tracking (performance, volume, efficiency)
+ - Time-based analysis (monthly, yearly trends)
+ - Segmentation by agency and business area
+ - Executive-level data visualization
+ - High-performance data model (optimized queries)
 
-KPI tracking (targets vs actuals)
-Branch performance comparison
-Executive dashboards
-Near real-time data updates
-Role-based access control (governance)
+
+## 📈 Results & Impact
+ 
+ - Enabled **data-driven decision-making** at executive level
+ - Improved visibility across business units
+ - Reduced time spent on manual reporting
+ - Increased adoption of BI across the organization (700+ users)
+
 
 ## 🛠️ Tools & Technologies
 SQL (data extraction and transformation)
-Qlik Sense (dashboard development)
-Data Modeling
+Qlik Sense (dashboard & data modeling)
+Data Modeling (star schema concepts)
 
 ## 📊 Dashboard Preview
 
